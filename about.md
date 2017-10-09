@@ -34,6 +34,9 @@ Markdown 是一种方便记忆、书写的纯文本标记语言，用户可以�
 ### 2. 书写一个质能守恒公式[^LaTeX]
 
 $$E=mc^2$$
+### 科学公式 TeX(KaTeX)
+                    
+$$E=mc^2$$
 
 ### 3. 高亮一段代码[^code]
 
@@ -70,7 +73,8 @@ Bob-->Alice: I am good thanks!
 
 ### 6. 高效绘制 [甘特图](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#9-甘特图)
 
-```gantt
+```
+gantt
     title 项目开发流程
     section 项目确定
         需求分析       :a1, 2016-06-22, 3d
